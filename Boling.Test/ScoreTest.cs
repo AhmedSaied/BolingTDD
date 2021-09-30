@@ -1,7 +1,7 @@
-using BolingTDD.Data;
+using BowlingTDD.Data;
 using Xunit;
 
-namespace Boling.Test
+namespace Bowling.Test
 {
     public class ScoreTest
     {

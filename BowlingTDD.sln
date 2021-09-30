@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31112.23
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BolingTDD", "BolingTDD\BolingTDD.csproj", "{4B506D79-5F32-44E3-B0D8-CF45E3F0AD52}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BowlingTDD", "BolingTDD\BowlingTDD.csproj", "{4B506D79-5F32-44E3-B0D8-CF45E3F0AD52}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Boling.Test", "Boling.Test\Boling.Test.csproj", "{066F6AA8-86EF-4C07-9129-F14E323BA403}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bowling.Test", "Boling.Test\Bowling.Test.csproj", "{066F6AA8-86EF-4C07-9129-F14E323BA403}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace BolingTDD
+namespace BowlingTDD
 {
     class Program
     {

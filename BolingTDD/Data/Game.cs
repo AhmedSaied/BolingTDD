@@ -1,4 +1,4 @@
-﻿namespace BolingTDD.Data
+﻿namespace BowlingTDD.Data
 {
     public class Game
     {
